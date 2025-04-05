@@ -1,0 +1,18 @@
+<svg width="27" height="26" viewBox="0 0 27 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1000">
+<g id="Mask group">
+<mask id="mask0_89_434" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="27" height="26">
+<rect id="Rectangle 52" x="0.986328" width="25.1788" height="25.1788" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_89_434)">
+<g id="Group 14">
+<circle id="Ellipse 12" cx="13.5751" cy="12.5888" r="10.8056" fill="#0EA102"/>
+<rect id="Rectangle 53" x="5.1582" y="13.4834" width="1.85552" height="5.78741" rx="0.927761" transform="rotate(-18.8657 5.1582 13.4834)" fill="white"/>
+<rect id="Rectangle 54" x="17.0342" y="7.08301" width="1.85552" height="9.97796" rx="0.927761" transform="rotate(-18.8657 17.0342 7.08301)" fill="white"/>
+<path id="Vector 8" d="M16.7686 7.41602C13.8693 9.20711 7.93166 12.8202 7.375 12.9439L8.99859 17.9693L19.9771 16.3457L18.3148 11.8229L16.7686 7.41602Z" fill="white"/>
+<path id="Vector 9" d="M10.8066 17.2147C11.1629 17.8574 11.0356 19.3047 11.7073 18.9478C12.5174 18.5175 14.163 18.239 14.9984 18.239C15.606 18.239 16.4218 17.7422 15.5161 16.7207" stroke="white" stroke-width="0.540278"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

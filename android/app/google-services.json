@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "578147249233",
+    "project_id": "tradewatchnew",
+    "storage_bucket": "tradewatchnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578147249233:android:f7e18e469c061cc6f71c70",
+        "android_client_info": {
+          "package_name": "com.tradewatch.tradewatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578147249233-0quj9u39lmofmds99mak9m2dbriunf9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "255e290516659d3ebffb7e2b76d1df3cd5be76ea"
+          }
+        },
+        {
+          "client_id": "578147249233-2r7hao4he6bhnsa82ugdr5l7kpc6a4ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "be18b26f4bc74bf2ff728c2c9dd69fb4ffe88d69"
+          }
+        },
+        {
+          "client_id": "578147249233-8oqqaldfqeoe0qs9krk8jo61a2jpq99l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "7754f9493ad995b0cd0899cee472bc5a39efbc94"
+          }
+        },
+        {
+          "client_id": "578147249233-dke2bp9c8f9di1oo8jie4mb3d8a75nli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "3665f9ee9e9dc46ec9ad8a0cd7ab9269437bcc77"
+          }
+        },
+        {
+          "client_id": "578147249233-ibqismsvqr0lrnisohlq9jv92qo708g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "f1443299f3512e5c013474e7769450757270eacb"
+          }
+        },
+        {
+          "client_id": "578147249233-l80pp40kkk73kp84vsr582umd2297kge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "ce66ae40a3a5e122f04fce382a42160acae1466a"
+          }
+        },
+        {
+          "client_id": "578147249233-lleeojgjcop16vnr3b1ibm9fffsf8m26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "6e50e7c4f581ee6b14f457a2303f53af2ec31e71"
+          }
+        },
+        {
+          "client_id": "578147249233-orh6ilgs5toi76keb2iggthcm6bplgao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "6be2c9035ce24241951ff0da86ed12172678bd49"
+          }
+        },
+        {
+          "client_id": "578147249233-sik3cam8hv88h1qii7g2cisoqi3ujjch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "a9003395b58f081f3676c5fb82c6322e2005fbfc"
+          }
+        },
+        {
+          "client_id": "578147249233-tqf1r8bgfp66jgjiih3jnucfvhjs0epn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradewatch.tradewatch",
+            "certificate_hash": "af3ca200e93c29d897770492020d5f37e10a2ba3"
+          }
+        },
+        {
+          "client_id": "578147249233-7vpa0m4r1u47ijs0kgg490kubu6lpv5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmRMtmllj0b_GAitCUQirAoMGXr9QzJZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578147249233-7vpa0m4r1u47ijs0kgg490kubu6lpv5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "578147249233-431nqa1b1mqndgr2saci6433clk43dcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tradewatch.tradewatch"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1999123438283650~9503306149"
+    }
+  ],
+  "configuration_version": "1"
+}

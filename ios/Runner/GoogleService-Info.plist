@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>578147249233-431nqa1b1mqndgr2saci6433clk43dcr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.578147249233-431nqa1b1mqndgr2saci6433clk43dcr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>578147249233-0quj9u39lmofmds99mak9m2dbriunf9o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-AbaE3cNi6067q4N3iBnt2bS5RuOW6GM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>578147249233</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tradewatch.tradewatch</string>
+	<key>PROJECT_ID</key>
+	<string>tradewatchnew</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tradewatchnew.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:578147249233:ios:6fd3e0513b8877a7f71c70</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-1999123438283650~4989346065</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+# Ignore a specific file
+secret_config.json
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.DS_Store
+
+# Ignore a folder
+build/
+.dart_tool/
+.idea/
+lib/Constants/Assets/keys.env

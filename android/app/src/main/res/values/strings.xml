@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tradewatchnew</string>
+    <string name="facebook_app_id">578499456953721</string>
+    <string name="fb_login_protocol_scheme">fb578499456953721</string>
+    <string name="facebook_client_token">2d19a8775dd92db523ddfb3181610ed1</string>
+</resources>
